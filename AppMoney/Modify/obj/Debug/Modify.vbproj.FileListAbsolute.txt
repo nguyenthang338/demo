@@ -1,0 +1,10 @@
+F:\AppMoney\AppMoney\Modify\obj\Debug\Modify.vbproj.GenerateResource.Cache
+F:\AppMoney\AppMoney\Modify\bin\Debug\TaskALL.exe.config
+F:\AppMoney\AppMoney\Modify\bin\Debug\TaskALL.exe
+F:\AppMoney\AppMoney\Modify\bin\Debug\TaskALL.pdb
+F:\AppMoney\AppMoney\Modify\bin\Debug\TaskALL.xml
+F:\AppMoney\AppMoney\Modify\obj\Debug\TaskALL.Form1.resources
+F:\AppMoney\AppMoney\Modify\obj\Debug\TaskALL.Resources.resources
+F:\AppMoney\AppMoney\Modify\obj\Debug\TaskALL.exe
+F:\AppMoney\AppMoney\Modify\obj\Debug\TaskALL.xml
+F:\AppMoney\AppMoney\Modify\obj\Debug\TaskALL.pdb

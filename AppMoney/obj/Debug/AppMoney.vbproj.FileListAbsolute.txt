@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\bin\Debug\AppMoney.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\bin\Debug\AppMoney.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\bin\Debug\AppMoney.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\bin\Debug\AppMoney.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AppMoney\AppMoney\obj\Debug\AppMoney.vbprojResolveAssemblyReference.cache
+F:\AppMoney\AppMoney\bin\Debug\AppMoney.exe.config
+F:\AppMoney\AppMoney\bin\Debug\AppMoney.exe
+F:\AppMoney\AppMoney\bin\Debug\AppMoney.pdb
+F:\AppMoney\AppMoney\bin\Debug\AppMoney.xml
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.Form1.resources
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.Resources.resources
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.vbproj.GenerateResource.Cache
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.exe
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.xml
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.pdb
+F:\AppMoney\AppMoney\obj\Debug\AppMoney.vbprojResolveAssemblyReference.cache
