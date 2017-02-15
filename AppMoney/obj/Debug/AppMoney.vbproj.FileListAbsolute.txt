@@ -20,3 +20,13 @@ F:\AppMoney\AppMoney\obj\Debug\AppMoney.exe
 F:\AppMoney\AppMoney\obj\Debug\AppMoney.xml
 F:\AppMoney\AppMoney\obj\Debug\AppMoney.pdb
 F:\AppMoney\AppMoney\obj\Debug\AppMoney.vbprojResolveAssemblyReference.cache
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\bin\Debug\AppMoney.exe.config
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.xml
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.pdb
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\bin\Debug\AppMoney.exe
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\bin\Debug\AppMoney.pdb
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\bin\Debug\AppMoney.xml
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.Form1.resources
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.Resources.resources
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.vbproj.GenerateResource.Cache
+C:\Users\Thang\Desktop\Virut_Code\demo\AppMoney\obj\Debug\AppMoney.exe
